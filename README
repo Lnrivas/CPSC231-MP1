@@ -1,0 +1,21 @@
+README MP1: Recursion and Intro to Classes
+
+1) Luis Rivas
+   2365948
+   lrivas@chapman.edu
+   CPSC 231-03
+   Mastery Project 1: Recursion and Intro to Classes
+
+2) Harmonic.java
+   StudentRecord.java
+
+3) N/A
+
+4) https://learn.zybooks.com/zybook/CHAPMANCPSC231Fall2020/chapter/8/section/1 to help me with making javadocs
+   Worked alone
+
+5) javac Harmonic.java
+   java Harmonic
+
+   javac StudentRecord.java
+   java StudentRecord
